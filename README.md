@@ -1,2 +1,5 @@
-# web-app3-lesson
-camera/clock app
+このプログラムはヒューマンアカデミー株式会社のDXのためのPython実践講座で使用するプログラムです。
+
+# 11Sample
+
+第11回用リポジトリ

@@ -1,0 +1,10 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  font-weight: 500;
+}
+
+img {
+  width: 300px;
+  border: 1px solid #000;
+}
