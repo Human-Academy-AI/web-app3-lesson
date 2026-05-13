@@ -1,0 +1,3 @@
+/* Step2 時刻アプリ - スタイルシート */
+body { font-family: sans-serif; padding: 20px; }
+#time { font-size: 48px; font-family: monospace; }

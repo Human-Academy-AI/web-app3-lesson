@@ -1,0 +1,3 @@
+/* Step1 シンプルカメラ - スタイルシート */
+body { font-family: sans-serif; padding: 20px; }
+video, img { display: block; width: 100%; max-width: 320px; }
